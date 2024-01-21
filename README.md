@@ -1,7 +1,7 @@
 ***
 
 <h5 align="center" >
-<img src="https://64.media.tumblr.com/ed7d46900ed372b223f8ebc24deb8c01/8468191fca2f9f38-31/s400x600/00ace49cbd95238081e1e6629e675fa9a5c097eb.pnj"/>
+<img src="https://64.media.tumblr.com/f6358b0948e91c7d560f6b13f37a7559/1bf19afe93cf2fd2-67/s100x200/2d1f745031791332069c8871ca51a486f299b328.gifv"/>
 </h5>
 
 
@@ -10,7 +10,7 @@
 </h5>
 <p align="center" >
   
-<img src="https://64.media.tumblr.com/eb14bc038e6ad3db525ebddd5f027fd1/19cd955b6508e0bf-0a/s400x600/d61178b5ecfd0f0ea61fea5ff45828d7133fdc9b.pnj"/>
+<img src="https://64.media.tumblr.com/839ca242a04751ecb3135c7649a348b5/836e3718f28e9b66-5d/s250x400/55f95ea5b1cd50388893bc7ef08b6a95a2bb2776.pnj"/>
 </p>
 <h5 align="center" >
   leave a comment on my guestbook! 
@@ -20,7 +20,7 @@
 </h5>
 
 <h5 align="center" >
-<img src="https://64.media.tumblr.com/935979a9d5c7ea4b1c6907760590f47a/8468191fca2f9f38-54/s400x600/01c39383dcb8929e99232968abf76dcd7eb5059f.pnj"/>
+<img src="https://64.media.tumblr.com/f6358b0948e91c7d560f6b13f37a7559/1bf19afe93cf2fd2-67/s100x200/2d1f745031791332069c8871ca51a486f299b328.gifv"/>
 </h5>
 
 
@@ -29,15 +29,16 @@
 
 <h5 align="left" >
 
-  cred. [dxxth-gxd](https://www.tumblr.com/dxxth-gxd/738228685670318080/delivery-yanfei-pastel-red-icons?source=share) for graphics,
+  cred. [staincastle](https://www.tumblr.com/staincastle/727843847251623936/rinas-message-is-here-aespa-icons) and [graphicstorage](https://www.tumblr.com/graphicstorage/737067723194073088/animal-crossing-fruits) on tumblr for graphics,
 </h5>
 
 <h5 align="right" >
 
- cred. [shig](https://github.com/neuvilIette) for helping me make this dumb thing
+ plus [shig](https://github.com/neuvilIette) for helping me make this dumb thing
 </h5>
 
 ***
-
-
+<p align="center" >
+<img src="https://64.media.tumblr.com/f805eebf6c97987e6ef828613b7401bb/78f1f1f0d2011cad-d8/s100x200/73630e253bb56ff07e2824df7fb1f8c68774be12.pnj"/>
+</p>
 
