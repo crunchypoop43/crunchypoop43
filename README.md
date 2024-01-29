@@ -17,6 +17,8 @@
 </h5>
 <h5 align="center" >
   no need to ask to int, come up to me! i dont bite :3
+
+ yes i am polish.
 </h5>
 
 <h5 align="center" >
