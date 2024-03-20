@@ -19,6 +19,8 @@
   no need to ask to int, come up to me! i dont bite :3
 
  yes i am polish.
+
+ also dont copy/inspo my skins (i will catch you)
 </h5>
 
 <h5 align="center" >
