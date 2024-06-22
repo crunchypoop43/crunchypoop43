@@ -36,7 +36,7 @@
 
 <h5 align="right" >
 
- plus [shig](https://github.com/pIanetIord) for helping me make this dumb thing
+ plus [shig](https://github.com/NiGHTWlNG) for helping me make this dumb thing
 </h5>
 
 ***
