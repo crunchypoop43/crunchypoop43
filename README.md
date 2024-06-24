@@ -13,7 +13,7 @@
 <img src="https://64.media.tumblr.com/839ca242a04751ecb3135c7649a348b5/836e3718f28e9b66-5d/s250x400/55f95ea5b1cd50388893bc7ef08b6a95a2bb2776.pnj"/>
 </p>
 <h5 align="center" >
-  leave a comment on my guestbook! 
+  leave a comment on my retrospring! 
 </h5>
 <h5 align="center" >
   no need to ask to int, come up to me! i dont bite :3
